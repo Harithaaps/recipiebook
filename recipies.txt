@@ -1,0 +1,8 @@
+Recipie name : Biriyani
+
+ingredients :
+    Rice 1kg
+    ghee 200gms
+    onion 1kg
+    chicken 1kg
+    
